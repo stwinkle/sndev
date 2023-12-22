@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="466483c52f1bb1106c7d235df699b63b" label="Loaner Catalog" max_length="40" name="x_81060_loaner_r_0_loaner_catalog" type="collection"/>
+</database>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_81060_loaner_r_0_loaner_catalog</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-22 14:45:14</sys_created_on>
+        <sys_id>fe474bc92f1bb1106c7d235df699b600</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_81060_loaner_r_0_loaner_catalog</sys_name>
+        <sys_package display_value="Loaner Request" source="x_81060_loaner_r_0">f132b0242f1331106c7d235df699b617</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">f132b0242f1331106c7d235df699b617</sys_scope>
+        <sys_update_name>ua_table_licensing_config_fe474bc92f1bb1106c7d235df699b600</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-22 14:45:14</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>
