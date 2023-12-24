@@ -1,3 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" db_object_id="466483c52f1bb1106c7d235df699b63b" label="Loaner Catalog" max_length="40" name="x_81060_loaner_r_0_loaner_catalog" type="collection"/>
+    <element audit="true" db_object_id="466483c52f1bb1106c7d235df699b63b" label="Loaner Catalog" max_length="40" name="x_81060_loaner_r_0_loaner_catalog" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Loaner Type" max_length="40" name="loaner_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Laptop" sequence="0" value="laptop"/>
+                <element inactive_on_update="false" label="Mobile" sequence="1" value="mobile"/>
+                <element inactive_on_update="false" label="Laptop Mobile" sequence="2" value="laptop mobile"/>
+            </choice>
+        </element>
+        <element label="Requested for" max_length="80" name="requested_for" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Date of issue" max_length="40" name="u_glide_date_2" type="glide_date"/>
+    </element>
 </database>

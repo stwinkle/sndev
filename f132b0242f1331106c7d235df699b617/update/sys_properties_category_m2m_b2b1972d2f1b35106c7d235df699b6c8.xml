@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Loaner Application">d44a03652f1b35106c7d235df699b6e6</category>
+        <order>1</order>
+        <property display_value="x_81060_loaner_r_0.x_loaner_property" name="x_81060_loaner_r_0.x_loaner_property">ffd15b2d2f1b35106c7d235df699b671</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-24 04:48:52</sys_created_on>
+        <sys_id>b2b1972d2f1b35106c7d235df699b6c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_81060_loaner_r_0.x_loaner_property.Loaner Application</sys_name>
+        <sys_package display_value="Loaner Request" source="x_81060_loaner_r_0">f132b0242f1331106c7d235df699b617</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">f132b0242f1331106c7d235df699b617</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_b2b1972d2f1b35106c7d235df699b6c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-24 04:48:52</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
